@@ -3,7 +3,7 @@
     "name": "startbootstrap-blog-post",
     "version": "4.2.2",
     "scripts": {
-        "start": "node_modules/.bin/gulp watch"
+        "start": "node index.html"
     },
     "description": "A basic blog post HTML template built with Bootstrap",
     "keywords": [
